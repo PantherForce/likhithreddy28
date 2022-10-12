@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @likhithreddy28
-- 👀 I’m interested in Web Development 
+- 👋 Hi, I’m @likhithreddy28 
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkden R Likhith Reddy
 
 <!---
 likhithreddy28/likhithreddy28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
