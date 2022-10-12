@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @likhithreddy28 
+- 👋 Hi, I’m Likith Reddy
 - 🌱 I’m currently learning Reactjs
 
 <!---
